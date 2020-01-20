@@ -17,3 +17,6 @@ This can be deployed to any webserver, or even local environment.
 ## How to Contribute
 
 At this state, it is not yet possible to contribute.
+
+## Copyright
+2020 Github training &copy;
