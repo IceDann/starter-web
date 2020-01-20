@@ -16,7 +16,7 @@ This can be deployed to any webserver, or even local environment.
 
 ## How to Contribute
 
-At this state, it is not yet possible to contribute.
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 2020 Github training &copy;
